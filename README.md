@@ -9,7 +9,7 @@
 
   
 <a href="https://www.instagram.com/song._.327/" target="_blank"><img src="https://img.shields.io/badge/Soey-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
-<a href="https://cake-tarn-9a3.notion.site/iOS-423a550c18294ddf9846ab9259236177" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
+<a href="https://cake-tarn-9a3.notion.site/iOS-423a550c18294ddf9846ab9259236177" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/qodwnskfh1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/jusong23@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
 <a href="https://velog.io/@jusong23" target="_blank"><img src="https://img.shields.io/badge/Velog-181717?style=flat-square&logo=Velog&logoColor=ffffff"/></a>
