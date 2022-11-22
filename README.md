@@ -23,11 +23,8 @@
 <img src="https://img.shields.io/badge/Zeplin-F19E32?style=flat-square&logo=AntDesign&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Git-EB5F45?style=flat-square&logo=Git&logoColor=ffffff"/></a>
-
 <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusong23&show_icons=true&theme=dark&hide_border=True&icon_color=White)
 </div>
- 
-  
  
