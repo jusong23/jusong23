@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Git-EB5F45?style=flat-square&logo=Git&logoColor=ffffff"/></a>
 <br>
 <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jusong23&color=dark)](https://github.com/jusong23/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jusong23&color=dark)](https://velog.io/@jusong23)
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
