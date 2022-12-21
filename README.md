@@ -32,19 +32,15 @@
 <img src="https://img.shields.io/badge/Git-EB5F45?style=flat-square&logo=Git&logoColor=ffffff"/></a>
 <br>
 <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jusong23&color=dark)](https://velog.io/@jusong23)
-<br>
-<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusong23&layout=compact&theme=dark" />
 </a>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusong23&show_icons=true&theme=dark&hide_border=True&icon_color=White)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jusong23&color=dark)](https://velog.io/@jusong23)
 <br>
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jusong23&theme=dark" alt="jusong23" />
-</p>
+
+<br>
 
 </div>
  
