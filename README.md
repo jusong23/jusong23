@@ -3,7 +3,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130)
 
- ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=CC66CC&text=Soey's%20Github&height=120&fontSize=60&desc=iOS%20Developer&descAlignY=85&descAlign=60&animation=twinkling)
+ ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=F0622F&text=Soey's%20Github&height=120&fontSize=60&desc=iOS%20Developer&descAlignY=85&descAlign=60&animation=twinkling)
   
 <h3 align="center">A passionate developer from Korea</h3>  
   
