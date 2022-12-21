@@ -25,6 +25,9 @@
 <img src="https://img.shields.io/badge/Git-EB5F45?style=flat-square&logo=Git&logoColor=ffffff"/></a>
 <br>
 <br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jusong23&color=dark)](https://github.com/jusong23/velog-readme-stats)
+<br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusong23&show_icons=true&theme=dark&hide_border=True&icon_color=White)
 </div>
  
