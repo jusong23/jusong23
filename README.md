@@ -27,9 +27,6 @@
 <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Node.js-5C3EE8?style=flat-square&logo=Node.js&logoColor=ffffff"/></a>
-<img src="https://img.shields.io/badge/Figma-19B6F6?style=flat-square&logo=Figma&logoColor=ffffff"/></a>
-<img src="https://img.shields.io/badge/Zeplin-F19E32?style=flat-square&logo=AntDesign&logoColor=ffffff"/></a>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Git-EB5F45?style=flat-square&logo=Git&logoColor=ffffff"/></a>
 <br>
 <br>
