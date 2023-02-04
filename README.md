@@ -26,8 +26,8 @@
 <img src="https://img.shields.io/badge/Swift-F76830?style=flat-square&logo=Swift&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff"/></a>
-<img src="https://img.shields.io/badge/Node.js-5C3EE8?style=flat-square&logo=Node.js&logoColor=ffffff"/></a>
-<img src="https://img.shields.io/badge/Git-EB5F45?style=flat-square&logo=Git&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"/></a>
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
